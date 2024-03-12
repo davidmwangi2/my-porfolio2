@@ -1,0 +1,22 @@
+header{
+    color: white;
+    text-align: center;
+    background-color:black;
+    font-size: xx-large;
+}
+nav{
+    word-spacing: 2cm;
+}
+h3{
+font-size: x-large;
+text-align: center;
+}
+h4{
+    font-size: x-large;
+    text-align: center;
+    font: bolder;
+}
+p{
+    font-size: larger;
+    font: italic;
+}
